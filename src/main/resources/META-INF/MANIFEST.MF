@@ -1,0 +1,2 @@
+Premain-class: mypackage.InstrumentationAgent
+Agent-class: mypackage.InstrumentationAgent
